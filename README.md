@@ -2,9 +2,9 @@
 ## Introduction
 This Challenge is for using the knowledge of SparkSQL to determine key metrics about home sales data.
 ## Data Preparation
-To answer the questions dataset needs to be prepared by using following steps:
-•	converted the datatypes for the columns to appropriate datatypes.  E.g date columns to date, other numerical columns has been converted form string to integers. 
-•	Extracted and added new year column from date columns
+To answer the  follwing questions dataset have been prepared by using following steps:
+<br>•	converted the datatypes for the columns to appropriate datatypes.  E.g date columns to date, other numerical columns has been converted form string to integers. 
+<br>•	Extracted and added new year column from date columns
 
 ## Answer the following questions using SparkSQL:
 1.	What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
