@@ -27,5 +27,5 @@ To answer the  follwing questions dataset have been prepared by using following 
 <br>6.	Run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 <br> ![image](https://github.com/RahulG2381/Home_Sales/assets/148564779/c0338367-a690-4c85-9c7e-cbe09f49cf95)
 
-## conclusion: 
-using the caching the data performance of the query is incresed  and the query run time reduced from 0.65 to 0.49 sec. howeven after doing theperformance were reduced and the time to run the query increses to 2.18 sec.
+## Conclusion: 
+Using the caching the data performance of the query is incresed  and the query run time reduced from 0.65 to 0.49 sec. However, after doing the partition performance were reduced and the time to run the query increses to 2.18 sec.
